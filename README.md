@@ -25,7 +25,7 @@
 ### 💬 My Discord Presence
 
 <p align="center">
-  <img src="data/profile.gif.gif" alt="Discord Presence" style="width:160px;height:160px;border-radius:50%;border:4px solid #5865F2;object-fit:cover;"/>
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
 </p>
 
 ### 📫 Contact Me
