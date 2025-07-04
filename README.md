@@ -22,17 +22,18 @@
 
 ---
 
-### 💬 My Discord Presence
+<h3 align="center">💬 My Discord</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
+  <a href="https://discord.com/users/1085738238385340467">
+    <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
+  </a>
 </p>
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/email.gif" alt="Email" width="22" style="vertical-align:middle;"/> : [My Email](mailto:deadpoolroy2006@gmail.com)
+- <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/discord.gif" alt="Discord" width="22" style="vertical-align:middle;"/> : [𝗞𝗶𝗻𝗴𝗺𝗼𝗻 ᴳᴳ](https://discord.com/users/1085738238385340467)
 
 ---
 
