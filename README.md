@@ -1,12 +1,12 @@
 <h1 align="center">My Profile</h1>
 
-<h2 align="center">I'm Pravanjan Roy <span style="color:#5865F2;font-weight:bold;font-style:italic;">aka Kingmon</span></h2>
-<h3 align="center">A passionate developer and Discord bot builder from India</h3>
+<h2 align="center"><span style="color:#F59E42;font-weight:bold;font-size:1.2em;">Pravanjan Roy</span> <span style="color:#5865F2;font-style:italic;font-size:0.9em;">(Kingmon)</span></h2>
+<h3 align="center">I specialize in <b>Python-based</b> bot development. A moderate coder with a keen interest in the future of <b>AI/ML</b>.</h3>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/tech.gif" alt="Tech" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="data/tech.gif" alt="Tech" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Tech Stack</b></span>
 </div>
 
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-discord.py-7289DA?logo=discord&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -39,7 +40,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/discord.gif" alt="Discord" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="data/discord.gif" alt="Discord" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Discord Profile</b></span>
 </div>
 
@@ -47,23 +48,23 @@
 
 <p align="center">
   <a href="https://discord.com/users/1085738238385340467">
-    <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
+    <img src="data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/contact.gif" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="data/contact.gif" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Contact Me</b></span>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="mailto:deadpoolroy2006@gmail.com"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/email.gif" alt="Email" width="22" style="vertical-align:middle;"/></a>
+  <a href="mailto:deadpoolroy2006@gmail.com"><img src="data/email.gif" alt="Email" width="22" style="vertical-align:middle;"/></a>
   &nbsp;|&nbsp;
-  <a href="https://discord.gg/vrUDNjGpkN"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/discord.gif" alt="Discord" width="22" style="vertical-align:middle;"/></a>
+  <a href="https://discord.gg/vrUDNjGpkN"><img src="data/discord.gif" alt="Discord" width="22" style="vertical-align:middle;"/></a>
 </p>
 
 ---
