@@ -5,7 +5,12 @@
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/tech.gif" alt="Tech" width="28" style="vertical-align:middle;"/> Tech Stack</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/tech.gif" alt="Tech" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="font-size:1.35em; vertical-align:middle;"><b>Tech Stack</b></span>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"/>
@@ -19,7 +24,12 @@
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/stats.gif" alt="Stats" width="28" style="vertical-align:middle;"/> GitHub Stats</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/stats.gif" alt="Stats" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="font-size:1.35em; vertical-align:middle;"><b>GitHub Stats</b></span>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kingmon6996&show_icons=true&theme=github_dark" alt="GitHub Stats" />
@@ -28,7 +38,12 @@
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/discord.gif" alt="Discord" width="28" style="vertical-align:middle;"/> My Discord</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/discord.gif" alt="Discord" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="font-size:1.35em; vertical-align:middle;"><b>Discord Profile</b></span>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://discord.com/users/1085738238385340467">
@@ -38,7 +53,12 @@
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/contact.gif" alt="Contact" width="28" style="vertical-align:middle;"/> Contact Me</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/contact.gif" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="font-size:1.35em; vertical-align:middle;"><b>Contact Me</b></span>
+</div>
+
+<br>
 
 <p align="center">
   <a href="mailto:deadpoolroy2006@gmail.com"><img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/email.gif" alt="Email" width="22" style="vertical-align:middle;"/></a>
