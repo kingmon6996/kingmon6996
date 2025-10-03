@@ -40,21 +40,6 @@
 ---
 
 <div align="center">
-  <img src="data/discord.gif" alt="Discord" width="28" style="vertical-align:middle; margin-right:8px;"/>
-  <span style="font-size:1.35em; vertical-align:middle;"><b>Discord Profile</b></span>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://discord.com/users/1085738238385340467">
-    <img src="data/profile.gif.gif" alt="Discord Presence" width="240" height="360" />
-  </a>
-</p>
-
----
-
-<div align="center">
   <img src="data/contact.gif" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Contact Me</b></span>
 </div>
@@ -72,3 +57,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmon6996&theme=github-compact" alt="Activity Graph" />
 </p>
+
