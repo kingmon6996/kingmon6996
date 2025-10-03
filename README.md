@@ -1,7 +1,7 @@
 <h1 align="center">My Profile</h1>
 
 <h2 align="center"><span style="color:#F59E42;font-weight:bold;font-size:1.2em;">Pravanjan Roy</span> <span style="color:#5865F2;font-style:italic;font-size:0.9em;">(Kingmon)</span></h2>
-<h3 align="center">I specialize in <b>Python-based</b> bot development. A moderate coder with a keen interest in the future of <b>AI/ML</b>.</h3>
+<h3 align="center">I specialize in <b>Python-based</b> projects. A moderate coder with a keen interest in the future of <b>AI/ML</b>.</h3>
 
 ---
 
@@ -57,4 +57,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmon6996&theme=github-compact" alt="Activity Graph" />
 </p>
+
 
