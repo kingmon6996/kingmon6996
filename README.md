@@ -1,12 +1,16 @@
 <h1 align="center">My Profile</h1>
 
 <h2 align="center"><span style="color:#F59E42;font-weight:bold;font-size:1.2em;">Pravanjan Roy</span> <span style="color:#5865F2;font-style:italic;font-size:0.9em;">(Kingmon)</span></h2>
-<h3 align="center">I specialize in <b>Python-based</b> projects. A moderate coder with a keen interest in the future of <b>AI/ML</b>.</h3>
+<h3 align="center">Full Stack Developer & AI/ML Enthusiast</h3>
+
+<p align="center">
+  I am a passionate developer specializing in <b>Python</b> and <b>Machine Learning/AI</b>. I build scalable and intelligent solutions with a strong foundation in <b>full-stack development</b>, combining backend expertise with modern frontend technologies. My journey involves creating robust applications using Python, exploring cutting-edge AI/ML models, and developing complete web applications from concept to deployment. I am dedicated to solving complex problems through clean code, data-driven insights, and innovative technology stacks.
+</p>
 
 ---
 
 <div align="center">
-  <img src="data/tech.gif" alt="Tech" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a1.png" alt="Tech" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Tech Stack</b></span>
 </div>
 
@@ -21,12 +25,15 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/main/data/stats.gif" alt="Stats" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ca.png" alt="Stats" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>GitHub Stats</b></span>
 </div>
 
@@ -40,16 +47,20 @@
 ---
 
 <div align="center">
-  <img src="data/contact.gif" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e7.png" alt="Contact" width="28" style="vertical-align:middle; margin-right:8px;"/>
   <span style="font-size:1.35em; vertical-align:middle;"><b>Contact Me</b></span>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="mailto:deadpoolroy2006@gmail.com"><img src="data/email.gif" alt="Email" width="22" style="vertical-align:middle;"/></a>
-  &nbsp;|&nbsp;
-  <a href="https://discord.gg/vrUDNjGpkN"><img src="data/discord.gif" alt="Discord" width="22" style="vertical-align:middle;"/></a>
+  <a href="mailto:deadpoolroy2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/vrUDNjGpkN"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kingmon6996"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kingmon6996"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
