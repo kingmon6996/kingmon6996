@@ -145,3 +145,113 @@
 </p>
 
 
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                     📊 GITHUB STATISTICS DASHBOARD 📊                      ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+```
+┌─ ⚡ QUICK STATS AT A GLANCE
+├─ 🔥 Total Commits         : 1446
+├─ 📦 Total Repositories    : 32 (🌍 4 | 🔒 28)
+├─ ⭐ Total Stars           : 0
+├─ 🔀 Total Forks           : 0
+├─ 💻 Main Language         : Python
+├─ 📊 Avg Commits/Repo      : 45.2
+├─ 📅 Last Activity         : 2026-03-29
+└─ ⏱️  Generated             : 2026-03-29 21:05:15
+```
+
+### 🔥 Programming Languages
+
+🐍 **Python** │`███████████████████████████████░░░░░░░░░░░░░░░░░░░`│  63.0% (17 repos)
+📘 **TypeScript** │`█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`│  18.5% (5 repos)
+🌐 **HTML** │`█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`│  11.1% (3 repos)
+🎨 **CSS** │`███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`│   7.4% (2 repos)
+
+### 📈 Contribution Breakdown
+
+**📁 Top Repositories by Commits:**
+
+`1.` shrimpy              │`▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯`│  430 commits ( 29.7%)
+`2.` Pikadex              │`▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯`│  311 commits ( 21.5%)
+`3.` Clan-Bots            │`▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯`│  176 commits ( 12.2%)
+`4.` pikadex-trainer      │`▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯`│   79 commits (  5.5%)
+`5.` scholarly-frontend   │`▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯`│   35 commits (  2.4%)
+
+**📅 Monthly Activity:**
+
+```
+2025-01  │░░░░░░░░░░░░░░░░░░░░│    1 commits
+2025-05  │▓░░░░░░░░░░░░░░░░░░░│   31 commits
+2025-06  │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  148 commits
+2025-07  │▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░│  174 commits
+2025-08  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  334 commits
+2025-09  │▓▓▓░░░░░░░░░░░░░░░░░│   61 commits
+2025-10  │▓▓▓▓▓▓░░░░░░░░░░░░░░│  103 commits
+2025-11  │▓░░░░░░░░░░░░░░░░░░░│   18 commits
+2025-12  │▓▓▓▓░░░░░░░░░░░░░░░░│   76 commits
+2026-01  │▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░│  168 commits
+2026-02  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  130 commits
+2026-03  │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│  202 commits
+```
+
+**🎯 Productivity Score:**
+
+```
+Overall  │█████████░░░░░░░░░░░│  45.1/100
+Repos    │████████████░░░░░░░░│  64%
+Commits  │█████░░░░░░░░░░░░░░░│  29%
+Activity │████████░░░░░░░░░░░░│  42%
+```
+
+### 📝 Latest Commits
+
+🔒 **2026-03-29** • `Raid-Service` → feat: initialize Dashboard page with layout, state
+🔒 **2026-03-29** • `Raid-Service` → feat: implement responsive animated navbar with Di
+🔒 **2026-03-29** • `Raid-Service` → feat: implement serverless proxy handler to route 
+🔒 **2026-03-29** • `Raid-Service` → feat: implement serverless proxy handler and updat
+🔒 **2026-03-29** • `Clan-Bots` → feat: Simplify CORS origin handling by removing cu
+🔒 **2026-03-29** • `Clan-Bots` → feat: Enhance CORS configuration to support vercel
+🔒 **2026-03-29** • `Raid-Service` → feat: initialize frontend project structure with b
+🌍 **2026-03-29** • `kingmon6996` → Remove unused language statistics and recent commi
+🌍 **2026-03-29** • `kingmon6996` → Update .gitignore and remove WakaTime stats sectio
+🌍 **2026-03-29** • `kingmon6996` → Remove WakaTime setup guide and workflow; add .git
+🌍 **2026-03-29** • `kingmon6996` → Update Waka Readme workflow to use actions/checkou
+🌍 **2026-03-29** • `kingmon6996` → Add WakaTime setup guide and workflow for README u
+🔒 **2026-03-29** • `Clan-Bots` → refactor: Update role ID references in help comman
+🔒 **2026-03-29** • `Raid-Service` → chore: add rewrite rule to vercel.json to support 
+🔒 **2026-03-29** • `Raid-Service` → feat: implement API proxy handler to forward reque
+
+### ⭐ Top Repositories
+
+🔒 **[Raid-Service](https://github.com/kingmon6996/Raid-Service)** • TypeScript
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[Clan-Bots](https://github.com/kingmon6996/Clan-Bots)** • Python
+   ⭐ 0 stars · 🔀 0 forks
+
+🌍 **[kingmon6996](https://github.com/kingmon6996/kingmon6996)** • N/A
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[PaperLens](https://github.com/kingmon6996/PaperLens)** • Python
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[Email-App](https://github.com/kingmon6996/Email-App)** • HTML
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[Raid-Bots](https://github.com/kingmon6996/Raid-Bots)** • Python
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[Community-Bots](https://github.com/kingmon6996/Community-Bots)** • Python
+   ⭐ 0 stars · 🔀 0 forks
+
+🔒 **[pikadex-trainer](https://github.com/kingmon6996/pikadex-trainer)** • Python
+   ⭐ 0 stars · 🔀 0 forks
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║ 🤖 Auto-generated GitHub Stats Dashboard                                   │
+╚════════════════════════════════════════════════════════════════════════════╝
+```
