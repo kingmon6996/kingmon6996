@@ -1,13 +1,9 @@
 <h1 align="center">👨‍💻 Pravanjan Roy</h1>
 
-<h3 align="center">
-  <span style="color:#F59E42;font-weight:bold;">Full Stack Developer</span> • 
-  <span style="color:#5865F2;font-weight:bold;">AI/ML Enthusiast</span> • 
-  <span style="color:#FF6B6B;font-weight:bold;">Python Specialist</span>
-</h3>
+<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Python Specialist</h3>
 
 <p align="center">
-  <em>Building scalable solutions with clean code, data-driven insights, and modern tech stacks</em>
+I'm a passionate full-stack developer with expertise in Python, JavaScript, and modern web technologies. My journey spans from building robust backend systems with Flask and FastAPI to crafting dynamic frontends with React and Next.js. I specialize in machine learning integration, cloud-native development, and creating end-to-end solutions that solve real-world problems. When I'm not coding, I'm exploring cutting-edge AI/ML models, contributing to open-source projects, and continuously learning new technologies to stay at the forefront of software development.
 </p>
 
 ---
@@ -256,110 +252,6 @@ Monthly Growth   ████████░░░░░░░░░░░░  4
 
 <p align="center">
   <sub>Last updated: 2026-03-29</sub>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="left">
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                          📈 ACTIVITY OVERVIEW                              ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-### Quick Overview
-
-```
-⚡ Total Commits        : 1447
-📦 Repositories         : 32 (🌍 4 public | 🔒 28 private)
-⭐ Total Stars          : 0
-🔀 Total Forks          : 0
-💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 45.2
-📅 Last Activity        : 2026-03-29
-```
-
-### 🔥 Programming Languages
-
-```
-🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮░░░░░░░░░░░░░░░░░░░   63.0% (17 repos)
-📘 TypeScript   ▮▮▮▮▮▮▮▮▮░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   18.5% (5 repos)
-🌐 HTML         ▮▮▮▮▮░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.1% (3 repos)
-🎨 CSS          ▮▮▮░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    7.4% (2 repos)
-```
-
-### 📁 Top Repositories
-
-```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   430 commits ( 29.7%)
-2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   311 commits ( 21.5%)
-3. Clan-Bots            ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   176 commits ( 12.2%)
-4. pikadex-trainer      ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  5.5%)
-5. scholarly-frontend   ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    35 commits (  2.4%)
-```
-
-### 📅 Monthly Activity Heatmap
-
-```
-2025-01  ░░░░░░░░░░░░░░░░░░░░    1 commits
-2025-05  ▓░░░░░░░░░░░░░░░░░░░   31 commits
-2025-06  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  148 commits
-2025-07  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  174 commits
-2025-08  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  334 commits ⭐ Peak Month
-2025-09  ▓▓▓░░░░░░░░░░░░░░░░░   61 commits
-2025-10  ▓▓▓▓▓▓░░░░░░░░░░░░░░  103 commits
-2025-11  ▓░░░░░░░░░░░░░░░░░░░   18 commits
-2025-12  ▓▓▓▓░░░░░░░░░░░░░░░░   76 commits
-2026-01  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  168 commits
-2026-02  ▓▓▓▓▓▓▓░░░░░░░░░░░░░  130 commits
-2026-03  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  203 commits
-```
-
-### 🎯 Productivity Metrics
-
-```
-Overall Activity   █████████░░░░░░░░░░░  45/100
-Repository Dev     ████████████░░░░░░░░  64/100
-Commit Frequency   █████░░░░░░░░░░░░░░░  29/100
-Monthly Growth     ████████░░░░░░░░░░░░  42/100
-```
-
-### 📝 Recent Contributions
-
-```
-🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-03-29 • Raid-Service         → feat: initialize Dashboard page with lay
-🔒 2026-03-29 • Raid-Service         → feat: implement responsive animated navb
-🔒 2026-03-29 • Raid-Service         → feat: implement serverless proxy handler
-🔒 2026-03-29 • Raid-Service         → feat: implement serverless proxy handler
-🔒 2026-03-29 • Clan-Bots            → feat: Simplify CORS origin handling by r
-🔒 2026-03-29 • Clan-Bots            → feat: Enhance CORS configuration to supp
-🔒 2026-03-29 • Raid-Service         → feat: initialize frontend project struct
-🌍 2026-03-29 • kingmon6996          → Remove unused language statistics and re
-🌍 2026-03-29 • kingmon6996          → Update .gitignore and remove WakaTime st
-```
-
-### ⭐ Featured Projects
-
-| Project | Language | Stars | Forks |
-|---------|----------|-------|-------|
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
-| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
-| 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
-| 🔒 [PaperLens](https://github.com/kingmon6996/PaperLens) | Python | ⭐ 0 | 0 |
-| 🔒 [Email-App](https://github.com/kingmon6996/Email-App) | HTML | ⭐ 0 | 0 |
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kingmon6996&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
