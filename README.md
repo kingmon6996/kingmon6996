@@ -153,10 +153,10 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 🔥 Programming Languages
 
 ```
-🐍 Python       ███████████████████████████████░░░░░░░░░░░░░░░░░░░  63.0% (17 repos)
-📘 TypeScript   █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18.5% (5 repos)
-🌐 HTML         █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11.1% (3 repos)
-🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7.4% (2 repos)
+🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  63.0% (17 repos)
+📘 TypeScript   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  18.5% (5 repos)
+🌐 HTML         ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  11.1% (3 repos)
+🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   7.4% (2 repos)
 ```
 
 ### 📁 Top Repositories
@@ -172,27 +172,27 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ░░░░░░░░░░░░░░░░░░░░      1 commits
-2025-05  ▓░░░░░░░░░░░░░░░░░░░     31 commits
-2025-06  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░    148 commits
-2025-07  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░    174 commits
-2025-08  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    334 commits ⭐ Peak Month
-2025-09  ▓▓▓░░░░░░░░░░░░░░░░░     61 commits
-2025-10  ▓▓▓▓▓▓░░░░░░░░░░░░░░    103 commits
-2025-11  ▓░░░░░░░░░░░░░░░░░░░     18 commits
-2025-12  ▓▓▓▓░░░░░░░░░░░░░░░░     76 commits
-2026-01  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░    168 commits
-2026-02  ▓▓▓▓▓▓▓░░░░░░░░░░░░░    130 commits
-2026-03  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░    202 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯         1 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        31 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯       148 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯       174 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮       334 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        61 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯       103 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        18 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        76 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯       168 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯       130 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯       202 commits
 ```
 
 ### 🎯 Productivity Metrics
 
 ```
-Overall Activity ████████░░░░░░░░░░░░  45.1/100
-Repository Dev   ████████████░░░░░░░░  64%
-Commit Frequency █████░░░░░░░░░░░░░░░  29%
-Monthly Growth   ████████░░░░░░░░░░░░  42%
+Overall Activity ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  45.1/100
+Repository Dev   ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64%
+Commit Frequency ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  29%
+Monthly Growth   ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  42%
 ```
 
 ### 📝 Recent Contributions
@@ -228,30 +228,6 @@ Monthly Growth   ████████░░░░░░░░░░░░  4
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kingmon6996&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmon6996&theme=github-compact" alt="Activity Graph" />
-</p>
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="mailto:deadpoolroy2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/123456789012345678"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pravanjan-roy-k2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pravanjan_roy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <sub>Last updated: 2026-03-29</sub>
 </p>
 
 <p align="center">
