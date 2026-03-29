@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1456
+⚡ Total Commits        : 1457
 📦 Repositories         : 32 (🌍 4 public | 🔒 28 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -162,28 +162,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   430 commits ( 29.5%)
-2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   311 commits ( 21.4%)
-3. Clan-Bots            ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   177 commits ( 12.2%)
-4. pikadex-trainer      ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  5.4%)
-5. kingmon6996          ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    39 commits (  2.7%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   860 commits ( 59.0%)
+2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   622 commits ( 42.7%)
+3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   354 commits ( 24.3%)
+4. pikadex-trainer      ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   158 commits ( 10.8%)
+5. kingmon6996          ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  5.4%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    1 commits
-2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   31 commits
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  148 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  174 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  334 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
-2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  103 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  168 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  212 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    2 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   62 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  296 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  348 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  668 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  122 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  206 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   36 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  152 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  336 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  260 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  425 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -198,6 +198,7 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → Merge branch 'main' of https://github.co
 🌍 2026-03-29 • kingmon6996          → chore: Update .gitignore to include test
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
@@ -206,7 +207,6 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 🌍 2026-03-29 • kingmon6996          → style: Standardize all bars to use consi
 🌍 2026-03-29 • kingmon6996          → fix: Remove colors from header, add deta
 🌍 2026-03-29 • kingmon6996          → feat: Expand tech stack with detailed ca
-🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 ```
 
