@@ -5,14 +5,6 @@
 
 ---
 
-## 📊 WakaTime Stats
-
-<!--START_SECTION:waka-->
-```text
-Loading...
-```
-<!--END_SECTION:waka-->
-
 <p align="center">
   <span>I am a passionate developer specializing in <b>Python</b> and <b>Machine Learning/AI</b>. I build scalable and intelligent solutions with a strong foundation in <b>full-stack development</b>, combining backend expertise with modern frontend technologies. My journey involves creating robust applications using Python, exploring cutting-edge AI/ML models, and developing complete web applications from concept to deployment. I am dedicated to solving complex problems through clean code, data-driven insights, and innovative technology stacks.</span>
 </p>
@@ -152,4 +144,78 @@ Loading...
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmon6996&theme=github-compact" alt="Activity Graph" />
 </p>
 
+
+
+### 🔥 Languages Used
+
+No language data available yet.
+
+
+### 🔥 Languages Used
+
+1. **Python** ████████████░░░░░░░░ 63.0% (17 repos)
+2. **TypeScript** ███░░░░░░░░░░░░░░░░░ 18.5% (5 repos)
+3. **HTML** ██░░░░░░░░░░░░░░░░░░ 11.1% (3 repos)
+4. **CSS** █░░░░░░░░░░░░░░░░░░░ 7.4% (2 repos)
+
+### 📈 Overall Statistics
+
+- **Total Commits**: 1437
+- **All Repositories**: 32
+  - 🌍 Public: 4
+  - 🔒 Private: 28
+- **Total Stars**: ⭐ 0
+- **Total Forks**: 🔀 0
+- **Main Language**: Python
+- **Last Commit**: 2026-03-29
+- **Last Updated**: 2026-03-29 16:45:27
+
+### 📝 Recent Commits
+
+- 🌍 [`kingmon6996`] Remove WakaTime setup guide and workflow; add .gitignore for requ **(2026-03-29)**
+- 🌍 [`kingmon6996`] Update Waka Readme workflow to use actions/checkout@v4 and refine **(2026-03-29)**
+- 🌍 [`kingmon6996`] Add WakaTime setup guide and workflow for README updates **(2026-03-29)**
+- 🔒 [`Clan-Bots`] refactor: Update role ID references in help command logic **(2026-03-29)**
+- 🔒 [`Raid-Service`] chore: add rewrite rule to vercel.json to support client-side rou **(2026-03-29)**
+- 🔒 [`Raid-Service`] feat: implement API proxy handler to forward requests to the back **(2026-03-29)**
+- 🔒 [`Raid-Service`] feat: implement dashboard layout with raid, leaderboard, and auth **(2026-03-29)**
+- 🔒 [`Clan-Bots`] feat: Add additional frontend URL to CORS configuration **(2026-03-29)**
+- 🔒 [`Raid-Service`] fix: update development server port to 30034 in package.json and  **(2026-03-29)**
+- 🔒 [`Raid-Service`] feat: enhance authentication flow with error handling and logging **(2026-03-29)**
+- 🔒 [`Clan-Bots`] feat: Add CORS preflight handlers and logging for OPTIONS request **(2026-03-29)**
+- 🔒 [`Clan-Bots`] feat: Add additional frontend URLs to CORS configuration **(2026-03-29)**
+- 🔒 [`Raid-Service`] refactor: simplify backend URL handling and update API endpoints **(2026-03-29)**
+- 🔒 [`Clan-Bots`] refactor: Update database connection handling in auth session fun **(2026-03-29)**
+- 🔒 [`Clan-Bots`] feat: Add authentication endpoints for session management and ver **(2026-03-29)**
+- 🔒 [`Raid-Service`] refactor: update backend URL variable and remove server.js; adjus **(2026-03-29)**
+- 🔒 [`Raid-Service`] feat: update frontend port to 30034 and remove deprecated start s **(2026-03-28)**
+- 🔒 [`Raid-Service`] chore: update development server port to 30034 in vite.config.ts **(2026-03-28)**
+- 🔒 [`Raid-Service`] thj **(2026-03-28)**
+- 🔒 [`Raid-Service`] feat: add start script for Pterodactyl Hosting to manage npm inst **(2026-03-28)**
+
+### ⭐ Top Repositories
+
+- 🌍 **[kingmon6996](https://github.com/kingmon6996/kingmon6996)** - No description
+  ⭐ 0 | 🔀 0 | 📝 None
+
+- 🔒 **[Clan-Bots](https://github.com/kingmon6996/Clan-Bots)** - No description
+  ⭐ 0 | 🔀 0 | 📝 Python
+
+- 🔒 **[Raid-Service](https://github.com/kingmon6996/Raid-Service)** - No description
+  ⭐ 0 | 🔀 0 | 📝 TypeScript
+
+- 🔒 **[PaperLens](https://github.com/kingmon6996/PaperLens)** - No description
+  ⭐ 0 | 🔀 0 | 📝 Python
+
+- 🔒 **[Email-App](https://github.com/kingmon6996/Email-App)** - No description
+  ⭐ 0 | 🔀 0 | 📝 HTML
+
+- 🔒 **[Raid-Bots](https://github.com/kingmon6996/Raid-Bots)** - No description
+  ⭐ 0 | 🔀 0 | 📝 Python
+
+- 🔒 **[Community-Bots](https://github.com/kingmon6996/Community-Bots)** - No description
+  ⭐ 0 | 🔀 0 | 📝 Python
+
+- 🔒 **[pikadex-trainer](https://github.com/kingmon6996/pikadex-trainer)** - No description
+  ⭐ 0 | 🔀 0 | 📝 Python
 
