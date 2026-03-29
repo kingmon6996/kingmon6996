@@ -141,12 +141,12 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1453
+⚡ Total Commits        : 1456
 📦 Repositories         : 32 (🌍 4 public | 🔒 28 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 45.4
+📊 Avg Commits/Repo     : 45.5
 📅 Last Activity        : 2026-03-29
 ```
 
@@ -162,11 +162,11 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   430 commits ( 29.6%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   430 commits ( 29.5%)
 2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   311 commits ( 21.4%)
 3. Clan-Bots            ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   177 commits ( 12.2%)
 4. pikadex-trainer      ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  5.4%)
-5. kingmon6996          ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    36 commits (  2.5%)
+5. kingmon6996          ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    39 commits (  2.7%)
 ```
 
 ### 📅 Monthly Activity Heatmap
@@ -183,7 +183,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
 2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  168 commits
 2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  209 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  212 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -198,6 +198,9 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-03-29 • kingmon6996          → Merge branch 'main' of https://github.co
+🌍 2026-03-29 • kingmon6996          → chore: Update .gitignore to include test
+🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-03-29 • Clan-Bots            → refactor: Remove RaidParticipantsView cl
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → style: Standardize all bars to use consi
@@ -205,17 +208,14 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 🌍 2026-03-29 • kingmon6996          → feat: Expand tech stack with detailed ca
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-03-29 • Raid-Service         → feat: initialize Dashboard page with lay
-🔒 2026-03-29 • Raid-Service         → feat: implement responsive animated navb
-🔒 2026-03-29 • Raid-Service         → feat: implement serverless proxy handler
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [PaperLens](https://github.com/kingmon6996/PaperLens) | Python | ⭐ 0 | 0 |
 | 🔒 [Email-App](https://github.com/kingmon6996/Email-App) | HTML | ⭐ 0 | 0 |
