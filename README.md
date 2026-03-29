@@ -141,84 +141,84 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1446
+⚡ Total Commits        : 1453
 📦 Repositories         : 32 (🌍 4 public | 🔒 28 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 45.2
+📊 Avg Commits/Repo     : 45.4
 📅 Last Activity        : 2026-03-29
 ```
 
 ### 🔥 Programming Languages
 
 ```
-🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  63.0% (17 repos)
-📘 TypeScript   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  18.5% (5 repos)
-🌐 HTML         ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  11.1% (3 repos)
-🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   7.4% (2 repos)
+🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   63.0% (17 repos)
+📘 TypeScript   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18.5% (5 repos)
+🌐 HTML         ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   11.1% (3 repos)
+🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    7.4% (2 repos)
 ```
 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  430 commits (29.7%)
-2. Pikadex             ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  311 commits (21.5%)
-3. Clan-Bots           ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  176 commits (12.2%)
-4. pikadex-trainer     ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   79 commits ( 5.5%)
-5. scholarly-frontend  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   35 commits ( 2.4%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   430 commits ( 29.6%)
+2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   311 commits ( 21.4%)
+3. Clan-Bots            ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   177 commits ( 12.2%)
+4. pikadex-trainer      ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  5.4%)
+5. kingmon6996          ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    36 commits (  2.5%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯         1 commits
-2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        31 commits
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯       148 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯       174 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮       334 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        61 commits
-2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯       103 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        18 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯        76 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯       168 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯       130 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯       202 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    1 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   31 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  148 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  174 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  334 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  103 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  168 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  209 commits
 ```
 
 ### 🎯 Productivity Metrics
 
 ```
-Overall Activity ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  45.1/100
-Repository Dev   ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64%
-Commit Frequency ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  29%
-Monthly Growth   ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  42%
+Overall Activity   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  45/100
+Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64/100
+Commit Frequency   ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  29/100
+Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  42/100
 ```
 
 ### 📝 Recent Contributions
 
 ```
-🔒 2026-03-29 • Raid-Service          → feat: initialize Dashboard page
-🔒 2026-03-29 • Raid-Service          → feat: implement responsive navbar
-🔒 2026-03-29 • Raid-Service          → feat: implement serverless proxy
-🔒 2026-03-29 • Clan-Bots             → feat: Simplify CORS origin handling
-🔒 2026-03-29 • Clan-Bots             → feat: Enhance CORS configuration
-🔒 2026-03-29 • Raid-Service          → feat: initialize frontend project
-🌍 2026-03-29 • kingmon6996           → Remove unused language statistics
-🌍 2026-03-29 • kingmon6996           → Update .gitignore and WakaTime
-🌍 2026-03-29 • kingmon6996           → Remove WakaTime setup guide
-🌍 2026-03-29 • kingmon6996           → Update Waka Readme workflow
+🔒 2026-03-29 • Clan-Bots            → refactor: Remove RaidParticipantsView cl
+🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-03-29 • kingmon6996          → style: Standardize all bars to use consi
+🌍 2026-03-29 • kingmon6996          → fix: Remove colors from header, add deta
+🌍 2026-03-29 • kingmon6996          → feat: Expand tech stack with detailed ca
+🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
+🔒 2026-03-29 • Raid-Service         → feat: initialize Dashboard page with lay
+🔒 2026-03-29 • Raid-Service         → feat: implement responsive animated navb
+🔒 2026-03-29 • Raid-Service         → feat: implement serverless proxy handler
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [PaperLens](https://github.com/kingmon6996/PaperLens) | Python | ⭐ 0 | 0 |
-| 🔒 [Raid-Bots](https://github.com/kingmon6996/Raid-Bots) | Python | ⭐ 0 | 0 |
-| 🔒 [Community-Bots](https://github.com/kingmon6996/Community-Bots) | Python | ⭐ 0 | 0 |
+| 🔒 [Email-App](https://github.com/kingmon6996/Email-App) | HTML | ⭐ 0 | 0 |
 
 </div>
 
