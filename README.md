@@ -141,57 +141,57 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1470
-📦 Repositories         : 36 (🌍 5 public | 🔒 31 private)
+⚡ Total Commits        : 1473
+📦 Repositories         : 38 (🌍 5 public | 🔒 33 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 40.8
+📊 Avg Commits/Repo     : 38.8
 📅 Last Activity        : 2026-03-30
 ```
 
 ### 🔥 Programming Languages
 
 ```
-🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   54.8% (17 repos)
-📘 TypeScript   ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   16.1% (5 repos)
-📜 JavaScript   ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   12.9% (4 repos)
-🌐 HTML         ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    9.7% (3 repos)
-🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.5% (2 repos)
+🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   51.5% (17 repos)
+📜 JavaScript   ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   15.2% (5 repos)
+📘 TypeScript   ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   15.2% (5 repos)
+🎨 CSS          ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    9.1% (3 repos)
+🌐 HTML         ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    9.1% (3 repos)
 ```
 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2580 commits (175.5%)
-2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1866 commits (126.9%)
-3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1066 commits ( 72.5%)
-4. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   474 commits ( 32.2%)
-5. kingmon6996          ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   249 commits ( 16.9%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3010 commits (204.3%)
+2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2177 commits (147.8%)
+3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  1245 commits ( 84.5%)
+4. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   553 commits ( 37.5%)
+5. kingmon6996          ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   294 commits ( 20.0%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6 commits
-2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  186 commits
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  888 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1044 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2004 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  366 commits
-2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  618 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  108 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  456 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1008 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  780 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  1298 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    7 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  217 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  1036 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1218 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2338 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  427 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  721 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  126 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  532 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1176 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  910 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1527 commits
 ```
 
 ### 🎯 Productivity Metrics
 
 ```
-Overall Activity   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  48/100
-Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  72/100
+Overall Activity   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  49/100
+Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯  76/100
 Commit Frequency   ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  29/100
 Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  43/100
 ```
@@ -199,6 +199,9 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🔒 2026-03-30 • dashboard-analytics  → Initial commit
+🔒 2026-03-30 • learning-platform    → Initial commit
+🌍 2026-03-30 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-03-30 • verification         → Initial commit
 🔒 2026-03-30 • Clan-Bots            → refactor: Remove endpoints.py and repos.
 🔒 2026-03-30 • inventory-management → Initial commit
@@ -206,20 +209,17 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 🔒 2026-03-30 • resource-availability → Refactor code structure for improved rea
 🔒 2026-03-30 • resource-availability → Initial commit
 🌍 2026-03-30 • record-management    → Update README to include contract addres
-🌍 2026-03-30 • record-management    → Initial commit
-🌍 2026-03-30 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-03-30 • kingmon6996          → chore: Update README with stats - 2026-0
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
+| 🔒 [dashboard-analytics](https://github.com/kingmon6996/dashboard-analytics) | JavaScript | ⭐ 0 | 0 |
+| 🔒 [learning-platform](https://github.com/kingmon6996/learning-platform) | CSS | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [verification](https://github.com/kingmon6996/verification) | JavaScript | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
-| 🔒 [inventory-management](https://github.com/kingmon6996/inventory-management) | JavaScript | ⭐ 0 | 0 |
-| 🔒 [resource-availability](https://github.com/kingmon6996/resource-availability) | JavaScript | ⭐ 0 | 0 |
-| 🌍 [record-management](https://github.com/kingmon6996/record-management) | JavaScript | ⭐ 0 | 0 |
 
 </div>
 
