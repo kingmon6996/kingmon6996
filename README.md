@@ -141,13 +141,13 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1458
+⚡ Total Commits        : 1460
 📦 Repositories         : 32 (🌍 4 public | 🔒 28 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
 📊 Avg Commits/Repo     : 45.6
-📅 Last Activity        : 2026-03-29
+📅 Last Activity        : 2026-03-30
 ```
 
 ### 🔥 Programming Languages
@@ -162,28 +162,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  1290 commits ( 88.5%)
-2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   933 commits ( 64.0%)
-3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   531 commits ( 36.4%)
-4. pikadex-trainer      ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   237 commits ( 16.3%)
-5. kingmon6996          ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   120 commits (  8.2%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1720 commits (117.8%)
+2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  1244 commits ( 85.2%)
+3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   709 commits ( 48.6%)
+4. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   316 commits ( 21.6%)
+5. kingmon6996          ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   162 commits ( 11.1%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    3 commits
-2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   93 commits
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  444 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  522 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1002 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  183 commits
-2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  309 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   54 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  228 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  504 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  390 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  639 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    4 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  124 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  592 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  696 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1336 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  244 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  412 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   72 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  304 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  672 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  520 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  855 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -192,12 +192,14 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 Overall Activity   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  45/100
 Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64/100
 Commit Frequency   ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  29/100
-Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  42/100
+Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  43/100
 ```
 
 ### 📝 Recent Contributions
 
 ```
+🔒 2026-03-30 • Clan-Bots            → fix: Update RaidParticipantsView initial
+🌍 2026-03-30 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → Merge branch 'main' of https://github.co
@@ -206,16 +208,14 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 🔒 2026-03-29 • Clan-Bots            → refactor: Remove RaidParticipantsView cl
 🌍 2026-03-29 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-03-29 • kingmon6996          → style: Standardize all bars to use consi
-🌍 2026-03-29 • kingmon6996          → fix: Remove colors from header, add deta
-🌍 2026-03-29 • kingmon6996          → feat: Expand tech stack with detailed ca
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [PaperLens](https://github.com/kingmon6996/PaperLens) | Python | ⭐ 0 | 0 |
 | 🔒 [Email-App](https://github.com/kingmon6996/Email-App) | HTML | ⭐ 0 | 0 |
