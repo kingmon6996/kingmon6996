@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1478
+⚡ Total Commits        : 1479
 📦 Repositories         : 40 (🌍 5 public | 🔒 35 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3870 commits (261.8%)
-2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2799 commits (189.4%)
-3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1603 commits (108.5%)
-4. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   711 commits ( 48.1%)
-5. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   387 commits ( 26.2%)
+1. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4300 commits (290.7%)
+2. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3110 commits (210.3%)
+3. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  1782 commits (120.5%)
+4. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   790 commits ( 53.4%)
+5. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   435 commits ( 29.4%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    9 commits
-2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  279 commits
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  1332 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1566 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3006 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  549 commits
-2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  927 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  162 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  684 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1512 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  1170 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1991 commits
+2025-01  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   10 commits
+2025-05  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  310 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  1480 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1740 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3340 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  610 commits
+2025-10  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1030 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  180 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  760 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1680 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  1300 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  2226 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,6 +199,7 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-03-31 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-03-31 • job-opportunity-portal → docs: update README to reflect transitio
 🔒 2026-03-31 • job-opportunity-portal → Initial commit
 🔒 2026-03-31 • donation-fundraising → Initial commit
@@ -208,16 +209,15 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯ 
 🔒 2026-03-30 • learning-platform    → Initial commit
 🌍 2026-03-30 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-03-30 • verification         → Initial commit
-🔒 2026-03-30 • Clan-Bots            → refactor: Remove endpoints.py and repos.
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [job-opportunity-portal](https://github.com/kingmon6996/job-opportunity-portal) | JavaScript | ⭐ 0 | 0 |
 | 🔒 [donation-fundraising](https://github.com/kingmon6996/donation-fundraising) | JavaScript | ⭐ 0 | 0 |
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [dashboard-analytics](https://github.com/kingmon6996/dashboard-analytics) | JavaScript | ⭐ 0 | 0 |
 | 🔒 [learning-platform](https://github.com/kingmon6996/learning-platform) | CSS | ⭐ 0 | 0 |
 
