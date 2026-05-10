@@ -141,12 +141,12 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1982
+⚡ Total Commits        : 1983
 📦 Repositories         : 50 (🌍 8 public | 🔒 42 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 39.6
+📊 Avg Commits/Repo     : 39.7
 📅 Last Activity        : 2026-05-10
 ```
 
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6451 commits (325.5%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6173 commits (311.5%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3213 commits (162.1%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2875 commits (145.1%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1106 commits ( 55.8%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6928 commits (349.4%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6624 commits (334.0%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3450 commits (174.0%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3081 commits (155.4%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1185 commits ( 59.8%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2072 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2436 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4676 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  854 commits
-2025-10  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1316 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  252 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1064 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2352 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  1820 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  3416 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  4578 commits
-2026-05  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  1968 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2220 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2610 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5010 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  915 commits
+2025-10  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1410 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  270 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1140 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2520 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  1950 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  3660 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  4905 commits
+2026-05  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2143 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,6 +199,7 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-10 • Pikadex              → refactor: Optimize database operations a
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
@@ -208,15 +209,14 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 🔒 2026-05-09 • Pikadex              → refactor: Enhance error handling and log
 🔒 2026-05-09 • shrimpy              → feat: serialize JSON fields before savin
 🔒 2026-05-09 • shrimpy              → fix: handle None character_id in load_ch
-🔒 2026-05-09 • shrimpy              → feat: parse JSON fields for pearlescent,
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
 | 🔒 [shrimpy](https://github.com/kingmon6996/shrimpy) | Python | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🔒 [gaana](https://github.com/kingmon6996/gaana) | Python | ⭐ 0 | 0 |
