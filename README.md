@@ -141,13 +141,13 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 1985
+⚡ Total Commits        : 1988
 📦 Repositories         : 50 (🌍 8 public | 🔒 42 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 39.7
-📅 Last Activity        : 2026-05-10
+📊 Avg Commits/Repo     : 39.8
+📅 Last Activity        : 2026-05-11
 ```
 
 ### 🔥 Programming Languages
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7882 commits (397.1%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7526 commits (379.1%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3927 commits (197.8%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3493 commits (176.0%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1343 commits ( 67.7%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8361 commits (420.6%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7977 commits (401.3%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4167 commits (209.6%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3699 commits (186.1%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1422 commits ( 71.5%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2516 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2958 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5678 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1037 commits
-2025-10  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1598 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  306 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1292 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2856 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2210 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  4148 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  5559 commits
-2026-05  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2496 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2664 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  3132 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6012 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1098 commits
+2025-10  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1692 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  324 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1368 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  3024 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2340 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  4392 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  5886 commits
+2026-05  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2676 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -193,12 +193,15 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64/100
 Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  100/100
 Commit Frequency   ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  40/100
-Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  53/100
+Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  54/100
 ```
 
 ### 📝 Recent Contributions
 
 ```
+🔒 2026-05-11 • Pikadex              → refactor: Replace cog_load and cog_unloa
+🔒 2026-05-11 • Pikadex              → refactor: Replace  listener with unload 
+🌍 2026-05-11 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
@@ -206,17 +209,14 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-10 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-09 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-09 • Pikadex              → refactor: Update user data insertion to 
-🌍 2026-05-09 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-09 • Pikadex              → refactor: Enhance error handling and log
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [shrimpy](https://github.com/kingmon6996/shrimpy) | Python | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🔒 [gaana](https://github.com/kingmon6996/gaana) | Python | ⭐ 0 | 0 |
