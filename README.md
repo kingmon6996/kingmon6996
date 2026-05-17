@@ -141,12 +141,12 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2035
+⚡ Total Commits        : 2045
 📦 Repositories         : 48 (🌍 5 public | 🔒 43 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 42.4
+📊 Avg Commits/Repo     : 42.6
 📅 Last Activity        : 2026-05-17
 ```
 
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   532 commits ( 26.1%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   451 commits ( 22.2%)
-3. kingmon6996          ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   254 commits ( 12.5%)
-4. Clan-Bots            ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   207 commits ( 10.2%)
-5. pikadex-trainer      ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  3.9%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1067 commits ( 52.2%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   902 commits ( 44.1%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   509 commits ( 24.9%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   414 commits ( 20.2%)
+5. pikadex-trainer      ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   158 commits (  7.7%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  146 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  158 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  334 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   83 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  168 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  244 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  326 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯  259 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  292 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  316 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  668 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  122 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  166 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   36 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  152 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  336 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  260 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  488 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  652 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯  528 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,27 +199,27 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
-🔒 2026-05-17 • NonStop              → feat: add GitHubStatsTracker class and u
-🔒 2026-05-17 • Pikadex              → feat: improve error handling and user fe
-🔒 2026-05-17 • Pikadex              → feat: enhance loadall command with user 
-🔒 2026-05-17 • Pikadex              → feat: increase max_messages limit for bo
-🔒 2026-05-17 • Pikadex              → feat: implement sync  command and manage
-🔒 2026-05-16 • Raid-Service         → feat: update dev script to use dynamic p
-🔒 2026-05-16 • Raid-Service         → feat: refactor port configuration to sep
-🔒 2026-05-16 • Raid-Service         → feat: implement host IP detection and au
-🔒 2026-05-16 • Clan-Bots            → fix: Update server port from 9526 to 246
-🔒 2026-05-16 • Raid-Service         → feat: add caniuse-lite dependency and up
+🔒 2026-05-17 • gaana                → fix: Update Lavalink Spotify configurati
+🔒 2026-05-17 • gaana                → fix: Update Lavalink Spotify configurati
+🔒 2026-05-17 • gaana                → fix: Update Lavalink Spotify configurati
+🔒 2026-05-17 • gaana                → fix: Update Lavalink Spotify configurati
+🔒 2026-05-17 • gaana                → feat: Add support for Spotify playlists 
+🔒 2026-05-17 • Pikadex              → feat: add user guild membership check an
+🔒 2026-05-17 • Pikadex              → feat: enhance sync and rare ping command
+🔒 2026-05-17 • gaana                → fix: Remove unnecessary connection check
+🔒 2026-05-17 • Pikadex              → feat: reduce max_messages limit for bot 
+🌍 2026-05-17 • kingmon6996          → chore: Update README with stats - 2026-0
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [NonStop](https://github.com/kingmon6996/NonStop) | Python | ⭐ 0 | 0 |
+| 🔒 [gaana](https://github.com/kingmon6996/gaana) | Python | ⭐ 0 | 0 |
 | 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
-| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
-| 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [NonStop](https://github.com/kingmon6996/NonStop) | Python | ⭐ 0 | 0 |
+| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 
 </div>
 
