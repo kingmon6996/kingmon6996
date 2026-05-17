@@ -141,13 +141,13 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2033
-📦 Repositories         : 51 (🌍 8 public | 🔒 43 private)
+⚡ Total Commits        : 2035
+📦 Repositories         : 48 (🌍 5 public | 🔒 43 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 39.9
-📅 Last Activity        : 2026-05-14
+📊 Avg Commits/Repo     : 42.4
+📅 Last Activity        : 2026-05-17
 ```
 
 ### 🔥 Programming Languages
@@ -163,35 +163,35 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  14356 commits (706.1%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  13389 commits (658.6%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7129 commits (350.7%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6171 commits (303.5%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2370 commits (116.6%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   532 commits ( 26.1%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   451 commits ( 22.2%)
+3. kingmon6996          ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   254 commits ( 12.5%)
+4. Clan-Bots            ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   207 commits ( 10.2%)
+5. pikadex-trainer      ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  3.9%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  4440 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  5220 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10020 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1830 commits
-2025-10  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2820 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  540 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2280 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  5040 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  3900 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  7320 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  9810 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  5201 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  146 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  158 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  334 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   83 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  168 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  244 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  326 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯  259 commits
 ```
 
 ### 🎯 Productivity Metrics
 
 ```
-Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  65/100
-Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  100/100
+Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  64/100
+Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  96/100
 Commit Frequency   ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  41/100
 Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  55/100
 ```
@@ -199,27 +199,27 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
-🌍 2026-05-14 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-13 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-13 • NonStop              → update bot_files list in main.py and add
-🔒 2026-05-13 • Pikadex              → fix: remove exclusive locking mode from 
-🔒 2026-05-13 • Pikadex              → fix: update guild database path and enha
-🌍 2026-05-13 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-13 • NonStop              → initial commit
-🌍 2026-05-13 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-13 • Pikadex              → fix: update guild database path and impl
-🔒 2026-05-13 • Pikadex              → fix: update extras database path to corr
+🔒 2026-05-17 • NonStop              → feat: add GitHubStatsTracker class and u
+🔒 2026-05-17 • Pikadex              → feat: improve error handling and user fe
+🔒 2026-05-17 • Pikadex              → feat: enhance loadall command with user 
+🔒 2026-05-17 • Pikadex              → feat: increase max_messages limit for bo
+🔒 2026-05-17 • Pikadex              → feat: implement sync  command and manage
+🔒 2026-05-16 • Raid-Service         → feat: update dev script to use dynamic p
+🔒 2026-05-16 • Raid-Service         → feat: refactor port configuration to sep
+🔒 2026-05-16 • Raid-Service         → feat: implement host IP detection and au
+🔒 2026-05-16 • Clan-Bots            → fix: Update server port from 9526 to 246
+🔒 2026-05-16 • Raid-Service         → feat: add caniuse-lite dependency and up
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [NonStop](https://github.com/kingmon6996/NonStop) | Python | ⭐ 0 | 0 |
 | 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
-| 🔒 [pikadexhq](https://github.com/kingmon6996/pikadexhq) | Python | ⭐ 0 | 0 |
-| 🔒 [shrimpy](https://github.com/kingmon6996/shrimpy) | Python | ⭐ 0 | 0 |
+| 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
+| 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 
 </div>
 
