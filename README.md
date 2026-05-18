@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2064
+⚡ Total Commits        : 2065
 📦 Repositories         : 48 (🌍 5 public | 🔒 43 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3215 commits (155.8%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2706 commits (131.1%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  1539 commits ( 74.6%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1242 commits ( 60.2%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   474 commits ( 23.0%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3752 commits (181.7%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3157 commits (152.9%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1799 commits ( 87.1%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1449 commits ( 70.2%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   553 commits ( 26.8%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  876 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  948 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2004 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  366 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  498 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  108 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  456 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1008 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  780 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  1464 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  1956 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  1671 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  1022 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  1106 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2338 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  427 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  581 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  126 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  532 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1176 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  910 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  1708 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  2282 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  1960 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -200,6 +200,7 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 
 ```
 🌍 2026-05-18 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-05-18 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-17 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-17 • Community-Bots       → Increase members per section in leave st
 🔒 2026-05-17 • Community-Bots       → Refactor LeaveStatuslayout to consistent
@@ -208,7 +209,6 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯ 
 🔒 2026-05-17 • Community-Bots       → Remove author information from StaffLeav
 🔒 2026-05-17 • Community-Bots       → Update user mention format in leave noti
 🔒 2026-05-17 • Community-Bots       → Add section separators in LeaveStatuslay
-🔒 2026-05-17 • Community-Bots       → Improve leave notification message forma
 ```
 
 ### ⭐ Featured Projects
