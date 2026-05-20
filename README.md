@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2081
+⚡ Total Commits        : 2082
 📦 Repositories         : 49 (🌍 5 public | 🔒 44 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  9695 commits (465.9%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8118 commits (390.1%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4725 commits (227.1%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3726 commits (179.0%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1422 commits ( 68.3%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10236 commits (491.6%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8569 commits (411.6%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4997 commits (240.0%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3933 commits (188.9%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1501 commits ( 72.1%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2628 commits
-2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  2844 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6012 commits ⭐ Peak Month
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1098 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1494 commits
-2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  324 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1368 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  3024 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2340 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  4392 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  5868 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  5246 commits
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2774 commits
+2025-07  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  3002 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6346 commits ⭐ Peak Month
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1159 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1577 commits
+2025-11  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  342 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1444 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  3192 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2470 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  4636 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  6194 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  5552 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -202,21 +202,21 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 🌍 2026-05-20 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-20 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-20 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-05-20 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-19 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-19 • Raid-Service         → feat: update backend URL to new server a
 🌍 2026-05-19 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-19 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-19 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-19 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-19 • Pikadex              → feat: rename on_shard_ready to on_shard_
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [Ai-Project](https://github.com/kingmon6996/Ai-Project) | N/A | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [Ai-Project](https://github.com/kingmon6996/Ai-Project) | N/A | ⭐ 0 | 0 |
 | 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
 | 🔒 [Community-Bots](https://github.com/kingmon6996/Community-Bots) | Python | ⭐ 0 | 0 |
