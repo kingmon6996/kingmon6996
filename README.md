@@ -141,12 +141,12 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2139
+⚡ Total Commits        : 2141
 📦 Repositories         : 51 (🌍 5 public | 🔒 46 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 41.9
+📊 Avg Commits/Repo     : 42.0
 📅 Last Activity        : 2026-05-25
 ```
 
@@ -163,34 +163,34 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   541 commits ( 25.3%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   451 commits ( 21.1%)
-3. kingmon6996          ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   291 commits ( 13.6%)
-4. Clan-Bots            ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   221 commits ( 10.3%)
-5. pikadex-trainer      ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  3.7%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1082 commits ( 50.5%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   902 commits ( 42.1%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   583 commits ( 27.2%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   442 commits ( 20.6%)
+5. pikadex-trainer      ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   158 commits (  7.4%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  146 commits
-2025-07  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  158 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  334 commits
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   83 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
-2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
-2026-01  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  168 commits
-2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  244 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  326 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  362 commits ⭐ Peak Month
+2025-06  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  292 commits
+2025-07  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  316 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  668 commits
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  122 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  166 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   36 commits
+2025-12  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  152 commits
+2026-01  ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  336 commits
+2026-02  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  260 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  488 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  652 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  726 commits ⭐ Peak Month
 ```
 
 ### 🎯 Productivity Metrics
 
 ```
-Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  66/100
+Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  67/100
 Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  100/100
 Commit Frequency   ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  43/100
 Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯  57/100
@@ -199,6 +199,8 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🔒 2026-05-25 • Ai-Project           → Change Flask server port from 5000 to 24
+🌍 2026-05-25 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-25 • Ai-Project           → Remove text-to-speech functionality and 
 🔒 2026-05-25 • Ai-Project           → Add cloner.py to .gitignore
 🔒 2026-05-25 • Ai-Project           → Initial commit
@@ -207,8 +209,6 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 🔒 2026-05-24 • Clan-Bots            → feat: Update translation command to use 
 🌍 2026-05-24 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-24 • Clan-Bots            → feat: Remove unnecessary print statement
-🔒 2026-05-24 • Clan-Bots            → feat: Refactor translation command
-🔒 2026-05-24 • Clan-Bots            → feat: Update translation command to supp
 ```
 
 ### ⭐ Featured Projects
@@ -216,9 +216,9 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
 | 🔒 [Ai-Project](https://github.com/kingmon6996/Ai-Project) | Python | ⭐ 0 | 0 |
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [ai-project-movies-ml](https://github.com/kingmon6996/ai-project-movies-ml) | Python | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
-| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
 
 </div>
