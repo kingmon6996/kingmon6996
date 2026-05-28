@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2185
+⚡ Total Commits        : 2186
 📦 Repositories         : 52 (🌍 5 public | 🔒 47 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8115 commits (371.4%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6765 commits (309.6%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4470 commits (204.6%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3323 commits (152.1%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1185 commits ( 54.2%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8656 commits (396.0%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7216 commits (330.1%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4776 commits (218.5%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3545 commits (162.2%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1264 commits ( 57.8%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2190 commits
-2025-07  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2370 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  5010 commits
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  915 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1245 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  270 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1140 commits
-2026-01  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2520 commits
-2026-02  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1950 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  3660 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  4890 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5718 commits ⭐ Peak Month
+2025-06  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  2336 commits
+2025-07  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2528 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  5344 commits
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  976 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1328 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  288 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1216 commits
+2026-01  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  2688 commits
+2026-02  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2080 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  3904 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  5216 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6127 commits ⭐ Peak Month
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,6 +199,7 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-05-28 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-05-28 • cinematic-muse       → Fixed docs sidebar UI issues
 🔒 2026-05-28 • cinematic-muse       → Changes
 🔒 2026-05-28 • cinematic-muse       → Added docs tabs & timer
@@ -208,15 +209,14 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 🌍 2026-05-28 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-27 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-27 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-27 • kingmon6996          → chore: Update README with stats - 2026-0
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [SoundSphere](https://github.com/kingmon6996/SoundSphere) | N/A | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
 | 🔒 [Ai-Project](https://github.com/kingmon6996/Ai-Project) | Python | ⭐ 0 | 0 |
