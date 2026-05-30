@@ -141,50 +141,50 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2199
-📦 Repositories         : 52 (🌍 5 public | 🔒 47 private)
+⚡ Total Commits        : 2211
+📦 Repositories         : 53 (🌍 6 public | 🔒 47 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 42.3
+📊 Avg Commits/Repo     : 41.7
 📅 Last Activity        : 2026-05-30
 ```
 
 ### 🔥 Programming Languages
 
 ```
-🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   42.6% (20 repos)
-📘 TypeScript   ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   23.4% (11 repos)
-📜 JavaScript   ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   21.3% (10 repos)
-🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.4% (3 repos)
-🌐 HTML         ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.4% (3 repos)
+🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   43.8% (21 repos)
+📘 TypeScript   ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   22.9% (11 repos)
+📜 JavaScript   ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   20.8% (10 repos)
+🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.2% (3 repos)
+🌐 HTML         ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.2% (3 repos)
 ```
 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  14066 commits (639.7%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  11726 commits (533.2%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7891 commits (358.8%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5765 commits (262.2%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  2054 commits ( 93.4%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  14607 commits (660.7%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  12177 commits (550.7%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8208 commits (371.2%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5987 commits (270.8%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  2133 commits ( 96.5%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-06  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  3796 commits
-2025-07  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  4108 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  8684 commits
-2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1586 commits
-2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2158 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  468 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1976 commits
-2026-01  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  4368 commits
-2026-02  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3380 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  6344 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  8476 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10294 commits ⭐ Peak Month
+2025-06  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  3942 commits
+2025-07  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  4266 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  9018 commits
+2025-09  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1647 commits
+2025-10  ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2241 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  486 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2052 commits
+2026-01  ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯  4536 commits
+2026-02  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3510 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  6588 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯  8802 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10728 commits ⭐ Peak Month
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,27 +199,27 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
-🌍 2026-05-30 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-30 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-05-29 • ai-project-movies-ml → Add CORS support and handle preflight re
-🔒 2026-05-29 • ai-project-movies-ml → Update WhisperModel initialization to us
-🌍 2026-05-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-29 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-28 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-05-30 • Nobodristhi          → Enhance startup process with Supabase cl
+🌍 2026-05-30 • Nobodristhi          → Refactor startup logic to initialize dat
+🌍 2026-05-30 • Nobodristhi          → Refactor startup logic to initialize dat
+🌍 2026-05-30 • Nobodristhi          → Refactor database connection logic to us
+🌍 2026-05-30 • Nobodristhi          → Enhance Supabase client initialization w
+🌍 2026-05-30 • Nobodristhi          → Implement raw and processed report handl
+🌍 2026-05-30 • Nobodristhi          → Update health check route to use root pa
+🌍 2026-05-30 • Nobodristhi          → Add health check endpoint to main.py
+🌍 2026-05-30 • Nobodristhi          → Refactor main.py to load environment var
+🌍 2026-05-30 • Nobodristhi          → Update requirements.txt to include async
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
+| 🌍 [Nobodristhi](https://github.com/kingmon6996/Nobodristhi) | Python | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [ai-project-movies-ml](https://github.com/kingmon6996/ai-project-movies-ml) | Python | ⭐ 0 | 0 |
 | 🔒 [Raid-Service](https://github.com/kingmon6996/Raid-Service) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
-| 🔒 [SoundSphere](https://github.com/kingmon6996/SoundSphere) | N/A | ⭐ 0 | 0 |
 
 </div>
 
