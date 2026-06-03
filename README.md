@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2268
+⚡ Total Commits        : 2269
 📦 Repositories         : 53 (🌍 6 public | 🔒 47 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2705 commits (119.3%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯  2255 commits ( 99.4%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1640 commits ( 72.3%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1110 commits ( 48.9%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   395 commits ( 17.4%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3246 commits (143.1%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2706 commits (119.3%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1971 commits ( 86.9%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1332 commits ( 58.7%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   474 commits ( 20.9%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  790 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1670 commits
-2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  305 commits
-2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  415 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   90 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  380 commits
-2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  840 commits
-2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  650 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1220 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1630 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2420 commits ⭐ Peak Month
-2026-06  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   25 commits
+2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  948 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  2004 commits
+2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  366 commits
+2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  498 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  108 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  456 commits
+2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1008 commits
+2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  780 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1464 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1956 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2904 commits ⭐ Peak Month
+2026-06  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   33 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -203,10 +203,10 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯ 
 🌍 2026-06-02 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-06-02 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-06-02 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-02 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-06-01 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-06-01 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-06-01 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-05-31 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-31 • kingmon6996          → chore: Update README with stats - 2026-0
 🌍 2026-05-31 • kingmon6996          → chore: Update README with stats - 2026-0
 ```
