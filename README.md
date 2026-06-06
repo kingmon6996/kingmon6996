@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2302
+⚡ Total Commits        : 2303
 📦 Repositories         : 54 (🌍 6 public | 🔒 48 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5428 commits (235.8%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4510 commits (195.9%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3395 commits (147.5%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  2220 commits ( 96.4%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   790 commits ( 34.3%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5972 commits (259.3%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4961 commits (215.4%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  3740 commits (162.4%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2442 commits (106.0%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   869 commits ( 37.7%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1580 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  3340 commits
-2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  610 commits
-2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  830 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  180 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  760 commits
-2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1680 commits
-2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1300 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2440 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  3260 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4840 commits ⭐ Peak Month
-2026-06  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  199 commits
+2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1738 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  3674 commits
+2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  671 commits
+2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  913 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  198 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  836 commits
+2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1848 commits
+2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1430 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  2684 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  3586 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  5324 commits ⭐ Peak Month
+2026-06  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  240 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,10 +199,10 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🌍 2026-06-06 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-06-06 • moodly-ai-chat       → Added neo-brutalist scrollbar
 🔒 2026-06-06 • moodly-ai-chat       → Changes
 🔒 2026-06-06 • moodly-ai-chat       → Softer neo-brutalism UI
-🔒 2026-06-06 • moodly-ai-chat       → Changes
 🔒 2026-06-06 • moodly-ai-chat       → Changes
 🔒 2026-06-06 • moodly-ai-chat       → Changes
 🔒 2026-06-06 • moodly-ai-chat       → Changes
@@ -215,8 +215,8 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯ 
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [moodly-ai-chat](https://github.com/kingmon6996/moodly-ai-chat) | TypeScript | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [moodly-ai-chat](https://github.com/kingmon6996/moodly-ai-chat) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [Pikadex](https://github.com/kingmon6996/Pikadex) | Python | ⭐ 0 | 0 |
 | 🌍 [Nobodristhi](https://github.com/kingmon6996/Nobodristhi) | Python | ⭐ 0 | 0 |
 | 🔒 [ai-project-movies-ml](https://github.com/kingmon6996/ai-project-movies-ml) | Python | ⭐ 0 | 0 |
