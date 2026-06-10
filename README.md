@@ -141,13 +141,13 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2321
+⚡ Total Commits        : 2338
 📦 Repositories         : 54 (🌍 6 public | 🔒 48 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 43.0
-📅 Last Activity        : 2026-06-08
+📊 Avg Commits/Repo     : 43.3
+📅 Last Activity        : 2026-06-09
 ```
 
 ### 🔥 Programming Languages
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  9780 commits (421.4%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8118 commits (349.8%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  6183 commits (266.4%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4000 commits (172.3%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1422 commits ( 61.3%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   544 commits ( 23.3%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   451 commits ( 19.3%)
+3. kingmon6996          ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   353 commits ( 15.1%)
+4. Clan-Bots            ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   223 commits (  9.5%)
+5. pikadex-trainer      ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    79 commits (  3.4%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2844 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  6012 commits
-2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1098 commits
-2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1494 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  324 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1368 commits
-2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3024 commits
-2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2340 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  4392 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  5868 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  8712 commits ⭐ Peak Month
-2026-06  ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  617 commits
+2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  158 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  334 commits
+2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   61 commits
+2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   83 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   18 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
+2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  168 commits
+2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  130 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  244 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  326 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  484 commits ⭐ Peak Month
+2026-06  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   76 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -192,33 +192,33 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ```
 Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  69/100
 Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  100/100
-Commit Frequency   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  46/100
+Commit Frequency   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  47/100
 Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  61/100
 ```
 
 ### 📝 Recent Contributions
 
 ```
-🌍 2026-06-08 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-06-07 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-06-07 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-06-07 • ai-project-movies-ml → Refactor load_rag_models and movie_assis
-🔒 2026-06-07 • Clan-Bots            → feat: Remove translation commands and AP
-🌍 2026-06-07 • kingmon6996          → chore: Update README with stats - 2026-0
-🌍 2026-06-07 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-06-07 • ai-project-movies-ml → Refactor movie recommendation system: im
-🔒 2026-06-07 • cinematic-muse       → Added chat history sidebar
-🔒 2026-06-07 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Removed nav items, kept "Get Started
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Fixed chat markdown & why text
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
+🔒 2026-06-09 • cinematic-muse       → Changes
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
+| 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
 | 🔒 [ai-project-movies-ml](https://github.com/kingmon6996/ai-project-movies-ml) | Python | ⭐ 0 | 0 |
 | 🔒 [Clan-Bots](https://github.com/kingmon6996/Clan-Bots) | Python | ⭐ 0 | 0 |
-| 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
 | 🔒 [moodly-ai-chat](https://github.com/kingmon6996/moodly-ai-chat) | TypeScript | ⭐ 0 | 0 |
 
 </div>
