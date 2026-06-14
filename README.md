@@ -141,12 +141,12 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### Quick Overview
 
 ```
-⚡ Total Commits        : 2391
+⚡ Total Commits        : 2399
 📦 Repositories         : 55 (🌍 6 public | 🔒 49 private)
 ⭐ Total Stars          : 0
 🔀 Total Forks          : 0
 💻 Primary Language     : Python
-📊 Avg Commits/Repo     : 43.5
+📊 Avg Commits/Repo     : 43.6
 📅 Last Activity        : 2026-06-14
 ```
 
@@ -163,28 +163,28 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ### 📁 Top Repositories
 
 ```
-1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  11424 commits (477.8%)
-2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  9577 commits (400.5%)
-3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7623 commits (318.8%)
-4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4683 commits (195.9%)
-5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1659 commits ( 69.4%)
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  11968 commits (498.9%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10050 commits (418.9%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  7997 commits (333.3%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  4906 commits (204.5%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1738 commits ( 72.4%)
 ```
 
 ### 📅 Monthly Activity Heatmap
 
 ```
-2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3318 commits
-2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  7014 commits
-2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1281 commits
-2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1743 commits
-2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  378 commits
-2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1596 commits
-2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3528 commits
-2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2730 commits
-2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  5124 commits
-2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  6846 commits
-2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10164 commits ⭐ Peak Month
-2026-06  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1939 commits
+2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3476 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  7348 commits
+2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1342 commits
+2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1826 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  396 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1672 commits
+2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  3696 commits
+2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2860 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  5368 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  7172 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  10648 commits ⭐ Peak Month
+2026-06  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  2076 commits
 ```
 
 ### 🎯 Productivity Metrics
@@ -199,27 +199,27 @@ Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯ 
 ### 📝 Recent Contributions
 
 ```
+🔒 2026-06-14 • Raid-Bots            → refactor: remove check_database_contents
+🔒 2026-06-14 • Raid-Bots            → refactor: remove created_at and updated_
+🔒 2026-06-14 • Raid-Bots            → fix : Raid bots error
+🔒 2026-06-14 • Raid-Bots            → feat: integrate bot database engine and 
+🔒 2026-06-14 • Raid-Bots            → feat: add diagnostic function to check d
+🔒 2026-06-14 • Raid-Bots            → fix: ensure statement_cache_size is set 
+🔒 2026-06-14 • Raid-Bots            → refactor: migrate database interactions 
+🌍 2026-06-14 • kingmon6996          → chore: Update README with stats - 2026-0
 🔒 2026-06-14 • PersonalBot          → refactor: Remove Endpoint references and
 🌍 2026-06-14 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-06-14 • PersonalBot          → fix: Remove token obfuscation in embeds 
-🔒 2026-06-14 • PersonalBot          → fix: Update import/export commands to ha
-🔒 2026-06-14 • PersonalBot          → fix: Ensure session is closed properly i
-🔒 2026-06-14 • PersonalBot          → feat: Enhance data import functionality 
-🌍 2026-06-14 • kingmon6996          → chore: Update README with stats - 2026-0
-🔒 2026-06-14 • PersonalBot          → fix: Update .gitignore to include backup
-🔒 2026-06-14 • shrimpy              → fix: correct banned user checks in trade
-🔒 2026-06-14 • PersonalBot          → refactor: Clean up admin commands and im
 ```
 
 ### ⭐ Featured Projects
 
 | Project | Language | Stars | Forks |
 |---------|----------|-------|-------|
-| 🔒 [PersonalBot](https://github.com/kingmon6996/PersonalBot) | Python | ⭐ 0 | 0 |
+| 🔒 [Raid-Bots](https://github.com/kingmon6996/Raid-Bots) | Python | ⭐ 0 | 0 |
 | 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [PersonalBot](https://github.com/kingmon6996/PersonalBot) | Python | ⭐ 0 | 0 |
 | 🔒 [shrimpy](https://github.com/kingmon6996/shrimpy) | Python | ⭐ 0 | 0 |
 | 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
-| 🔒 [ai-project-movies-ml](https://github.com/kingmon6996/ai-project-movies-ml) | Python | ⭐ 0 | 0 |
 
 </div>
 
