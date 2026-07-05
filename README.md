@@ -169,7 +169,11 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kingmon6996&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmon6996&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Tokyo Night" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kingmon6996&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Language Stats">
 </p>
 
 <div align="center">
