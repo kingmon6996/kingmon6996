@@ -1,15 +1,40 @@
-<h1 align="center">Pravanjan Roy</h1>
-
-<h3 align="center">Full-Stack Developer • Building Scalable Applications</h3>
+<div align="center">
+  <img src="assets/mario.gif" alt="gif" />
+</div>
+ 
+---
 
 <p align="center">
-I'm a passionate full-stack developer who enjoys building modern web applications from concept to deployment. With experience across frontend, backend, AI/ML, and cloud technologies, I love creating scalable, high-performance solutions while constantly exploring new tools and pushing my skills further.
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=8B5CF6&width=435&lines=Hi%2C+I'm+Pravanjan+Roy.+;Full-Stack+Developer;Building+Scalable+Apps" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## Tech Stack
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p align="left">
+        I'm a passionate full-stack developer who enjoys building modern web applications from concept to deployment. With experience across frontend, backend, AI/ML, and cloud technologies, I love creating scalable, high-performance solutions while constantly exploring new tools and pushing my skills further.
+      </p>
+    </td>
+    <td valign="top" align="center">
+      <img src="assets/smile.gif" alt="smile gif" width="180" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  <img src="assets/skills.gif" alt="skills gif" width="48" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=2595F6&width=435&lines=Tech+Stack" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ### Core Languages
 
@@ -165,9 +190,18 @@ I'm a passionate full-stack developer who enjoys building modern web application
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
 </p>
 
+
 ---
 
-## GitHub Analytics
+<div align="center">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=2595F6&width=435&lines=Github+Analysis" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmon6996&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Tokyo Night" />
@@ -180,3 +214,18 @@ I'm a passionate full-stack developer who enjoys building modern web application
 <div align="center">
   <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/output/github-snake-dark.svg" alt="snake gif" />
 </div>
+
+</div>
+
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kingmon6996&label=Profile%20Views&color=brightgreen" alt="Profile views" />
+</p>
