@@ -171,3 +171,7 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kingmon6996&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  ![snake gif](https://github.com/kingmon6996/kingmon6996/blob/output/github-snake-dark.svg)
+</div>
