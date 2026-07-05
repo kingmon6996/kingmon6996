@@ -166,7 +166,108 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 
 ---
 
+<<<<<<< HEAD
 ## GitHub Analytics
+=======
+## 📊 GitHub Statistics
+
+<div align="left">
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          📈 ACTIVITY OVERVIEW                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+### Quick Overview
+
+```
+⚡ Total Commits        : 2440
+📦 Repositories         : 55 (🌍 6 public | 🔒 49 private)
+⭐ Total Stars          : 0
+🔀 Total Forks          : 0
+💻 Primary Language     : Python
+📊 Avg Commits/Repo     : 44.4
+📅 Last Activity        : 2026-06-23
+```
+
+### 🔥 Programming Languages
+
+```
+🐍 Python       ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   44.0% (22 repos)
+📘 TypeScript   ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   24.0% (12 repos)
+📜 JavaScript   ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   20.0% (10 repos)
+🎨 CSS          ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.0% (3 repos)
+🌐 HTML         ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯    6.0% (3 repos)
+```
+
+### 📁 Top Repositories
+
+```
+1. Pikadex              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2720 commits (111.5%)
+2. shrimpy              ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯  2365 commits ( 96.9%)
+3. kingmon6996          ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  2065 commits ( 84.6%)
+4. Clan-Bots            ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  1115 commits ( 45.7%)
+5. pikadex-trainer      ▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   395 commits ( 16.2%)
+```
+
+### 📅 Monthly Activity Heatmap
+
+```
+2025-07  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  790 commits
+2025-08  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1670 commits
+2025-09  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  305 commits
+2025-10  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  415 commits
+2025-11  ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   90 commits
+2025-12  ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  380 commits
+2026-01  ▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯  840 commits
+2026-02  ▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  650 commits
+2026-03  ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯  1220 commits
+2026-04  ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯  1630 commits
+2026-05  ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  2420 commits ⭐ Peak Month
+2026-06  ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯  880 commits
+```
+
+### 🎯 Productivity Metrics
+
+```
+Overall Activity   ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  71/100
+Repository Dev     ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮  100/100
+Commit Frequency   ▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯  49/100
+Monthly Growth     ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  65/100
+```
+
+### 📝 Recent Contributions
+
+```
+🌍 2026-06-23 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-23 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-22 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-22 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-22 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-22 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-22 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-21 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-21 • kingmon6996          → chore: Update README with stats - 2026-0
+🌍 2026-06-21 • kingmon6996          → chore: Update README with stats - 2026-0
+```
+
+### ⭐ Featured Projects
+
+| Project | Language | Stars | Forks |
+|---------|----------|-------|-------|
+| 🌍 [kingmon6996](https://github.com/kingmon6996/kingmon6996) | N/A | ⭐ 0 | 0 |
+| 🔒 [Raid-Bots](https://github.com/kingmon6996/Raid-Bots) | Python | ⭐ 0 | 0 |
+| 🔒 [PersonalBot](https://github.com/kingmon6996/PersonalBot) | Python | ⭐ 0 | 0 |
+| 🔒 [shrimpy](https://github.com/kingmon6996/shrimpy) | Python | ⭐ 0 | 0 |
+| 🔒 [cinematic-muse](https://github.com/kingmon6996/cinematic-muse) | TypeScript | ⭐ 0 | 0 |
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+>>>>>>> a3ea672a1ea18b558967c0c0d38bd1fdd003bb91
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kingmon6996&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
