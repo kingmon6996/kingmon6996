@@ -1,9 +1,10 @@
 <h1 align="center">Pravanjan Roy</h1>
 
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Python Specialist</h3>
+<h3 align="center">Full-Stack Developer • Building Scalable Applications</h3>
 
 <p align="center">
-I'm a passionate full-stack developer with expertise in Python, JavaScript, and modern web technologies. My journey spans from building robust backend systems with Flask and FastAPI to crafting dynamic frontends with React and Next.js. I specialize in machine learning integration, cloud-native development, and creating end-to-end solutions that solve real-world problems. When I'm not coding, I'm exploring cutting-edge AI/ML models, contributing to open-source projects, and continuously learning new technologies to stay at the forefront of software development.
+I'm a passionate full-stack developer who enjoys building modern web applications from concept to deployment. With experience across frontend, backend, AI/ML, and cloud technologies, I love creating scalable, high-performance solutions while constantly exploring new tools and pushing my skills further.
+
 </p>
 
 ---
