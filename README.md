@@ -173,5 +173,5 @@ I'm a passionate full-stack developer with expertise in Python, JavaScript, and 
 </p>
 
 <div align="center">
-  ![snake gif](https://github.com/kingmon6996/kingmon6996/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/kingmon6996/kingmon6996/output/github-snake-dark.svg" alt="snake gif" />
 </div>
