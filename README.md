@@ -215,10 +215,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jgevk2hg6j5qv2w2vqjz3u2s2q4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Music" />
-</p>
-
 ---
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -226,9 +222,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B942F6&width=435&lines=Connect+with+me+via+-%3E" alt="Typing SVG" />
   </a>
-  <a href="https://www.instagram.com/"><img src="assets/insta.gif" alt="Instagram" width="48" /></a>
-  <a href="https://www.linkedin.com/"><img src="assets/linkedin.gif" alt="LinkedIn" width="48" /></a>
-  <a href="https://discord.com/"><img src="assets/discord.gif" alt="Discord" width="48" /></a>
+  <a href="https://www.instagram.com/pravanjan_roy/"><img src="assets/insta.gif" alt="Instagram" width="48" /></a>
+  <a href="www.linkedin.com/in/pravanjan-roy-k2006"><img src="assets/linkedin.gif" alt="LinkedIn" width="48" /></a>
+  <a href="https://discord.com/users/1085738238385340467"><img src="assets/discord.gif" alt="Discord" width="48" /></a>
 </p>
 
 <p align="center">
